@@ -1,0 +1,15 @@
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.Model\bin\Debug\net6.0\TaskManagement.Model.deps.json
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.Model\bin\Debug\net6.0\TaskManagement.Model.dll
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.Model\bin\Debug\net6.0\TaskManagement.Model.pdb
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.Model\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.Model\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.Model\obj\Debug\net6.0\TaskManagement.Model.csproj.AssemblyReference.cache
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.Model\obj\Debug\net6.0\TaskManagement.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.Model\obj\Debug\net6.0\TaskManagement.Model.AssemblyInfoInputs.cache
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.Model\obj\Debug\net6.0\TaskManagement.Model.AssemblyInfo.cs
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.Model\obj\Debug\net6.0\TaskManagement.Model.csproj.CoreCompileInputs.cache
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.Model\obj\Debug\net6.0\TaskManagement.Model.csproj.CopyComplete
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.Model\obj\Debug\net6.0\TaskManagement.Model.dll
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.Model\obj\Debug\net6.0\refint\TaskManagement.Model.dll
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.Model\obj\Debug\net6.0\TaskManagement.Model.pdb
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.Model\obj\Debug\net6.0\ref\TaskManagement.Model.dll

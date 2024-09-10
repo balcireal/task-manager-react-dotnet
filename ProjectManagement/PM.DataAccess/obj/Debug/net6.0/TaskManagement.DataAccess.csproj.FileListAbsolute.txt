@@ -1,0 +1,17 @@
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.DataAccess\bin\Debug\net6.0\TaskManagement.DataAccess.deps.json
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.DataAccess\bin\Debug\net6.0\TaskManagement.DataAccess.dll
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.DataAccess\bin\Debug\net6.0\TaskManagement.DataAccess.pdb
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.DataAccess\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.DataAccess\bin\Debug\net6.0\TaskManagement.Model.dll
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.DataAccess\bin\Debug\net6.0\TaskManagement.Model.pdb
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.DataAccess\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.DataAccess\obj\Debug\net6.0\TaskManagement.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.DataAccess\obj\Debug\net6.0\TaskManagement.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.DataAccess\obj\Debug\net6.0\TaskManagement.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.DataAccess\obj\Debug\net6.0\TaskManagement.DataAccess.AssemblyInfo.cs
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.DataAccess\obj\Debug\net6.0\TaskManagement.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.DataAccess\obj\Debug\net6.0\TaskManagement.DataAccess.csproj.CopyComplete
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.DataAccess\obj\Debug\net6.0\TaskManagement.DataAccess.dll
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.DataAccess\obj\Debug\net6.0\refint\TaskManagement.DataAccess.dll
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.DataAccess\obj\Debug\net6.0\TaskManagement.DataAccess.pdb
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.DataAccess\obj\Debug\net6.0\ref\TaskManagement.DataAccess.dll

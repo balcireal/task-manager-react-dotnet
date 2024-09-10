@@ -1,0 +1,17 @@
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.DataAccess\bin\Debug\net6.0\ProjectManagement.DataAccess.deps.json
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.DataAccess\bin\Debug\net6.0\ProjectManagement.DataAccess.dll
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.DataAccess\bin\Debug\net6.0\ProjectManagement.DataAccess.pdb
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.DataAccess\obj\Debug\net6.0\ProjectManagement.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.DataAccess\obj\Debug\net6.0\ProjectManagement.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.DataAccess\obj\Debug\net6.0\ProjectManagement.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.DataAccess\obj\Debug\net6.0\ProjectManagement.DataAccess.AssemblyInfo.cs
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.DataAccess\obj\Debug\net6.0\ProjectManagement.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.DataAccess\obj\Debug\net6.0\ProjectManagement.DataAccess.dll
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.DataAccess\obj\Debug\net6.0\refint\ProjectManagement.DataAccess.dll
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.DataAccess\obj\Debug\net6.0\ProjectManagement.DataAccess.pdb
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.DataAccess\obj\Debug\net6.0\ref\ProjectManagement.DataAccess.dll
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.DataAccess\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.DataAccess\bin\Debug\net6.0\ProjectManagement.Model.dll
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.DataAccess\bin\Debug\net6.0\ProjectManagement.Model.pdb
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.DataAccess\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.DataAccess\obj\Debug\net6.0\ProjectManagement.DataAccess.csproj.CopyComplete

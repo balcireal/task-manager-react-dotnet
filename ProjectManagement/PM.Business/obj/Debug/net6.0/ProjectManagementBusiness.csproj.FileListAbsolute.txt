@@ -1,0 +1,12 @@
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.Business\bin\Debug\net6.0\ProjectManagementBusiness.deps.json
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.Business\bin\Debug\net6.0\ProjectManagementBusiness.dll
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.Business\bin\Debug\net6.0\ProjectManagementBusiness.pdb
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.Business\obj\Debug\net6.0\ProjectManagementBusiness.csproj.AssemblyReference.cache
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.Business\obj\Debug\net6.0\ProjectManagementBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.Business\obj\Debug\net6.0\ProjectManagementBusiness.AssemblyInfoInputs.cache
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.Business\obj\Debug\net6.0\ProjectManagementBusiness.AssemblyInfo.cs
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.Business\obj\Debug\net6.0\ProjectManagementBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.Business\obj\Debug\net6.0\ProjectManagementBusiness.dll
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.Business\obj\Debug\net6.0\refint\ProjectManagementBusiness.dll
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.Business\obj\Debug\net6.0\ProjectManagementBusiness.pdb
+C:\Users\Adil Can\Desktop\Staj Proje\ProjectManagement\PM.Business\obj\Debug\net6.0\ref\ProjectManagementBusiness.dll
